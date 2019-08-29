@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SQLConnectionString": "Server=(localdb)\\ProjectsV13;Database=sample1;Trusted_Connection=True;"
+  }
+  //,
+  //"Host": {
+  //  "LocalHttpPort": 7071,
+  //  "CORS": "*",
+  //  "CORSCredentials": false
+  //}
+  //,
+  //"ConnectionStrings": {
+  //  "SQLConnectionString": "Server=(localdb)\\ProjectsV13;Database=Reg_dev_db;Trusted_Connection=True;"
+  //}
+}
