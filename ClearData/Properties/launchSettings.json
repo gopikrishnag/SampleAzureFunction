@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClearRegistrationData": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
